@@ -1,5 +1,5 @@
 ---
-title: studyguides.science
+title: studyguides.xyz
 timezone: UTC
 collections:
   category:
@@ -35,12 +35,10 @@ defaults:
     type: category
   values:
     layout: category
-email: hello@studyguides.science
-description: 'A collection of science notes for school use.
-
-'
+email: hi@studyguides.xyz
+description: 'A collection of notes for school use.'
 baseurl: 
-url: https://studyguides.science
+url: https://studyguides.xyz
 host: localhost
 port: 4000
 markdown: kramdown

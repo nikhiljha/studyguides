@@ -1,4 +1,4 @@
-# [studyguides.science](https://studyguides.science)
+# [studyguides.xyz](https://studyguides.xyz)
 
 <img src="https://s3.amazonaws.com/github-demo-images/studyguides.png" width="100%">
 
@@ -6,11 +6,11 @@
 * This site runs on Jekyll.
 * Want to contribute? Send a pull request.
 * PALY student? Check out [paly.win](https://paly.win)
-* Have other suggestions? Contact **hello@studyguides.science**
+* Have other suggestions? Contact **hello@studyguides.xyz**
 * Made by [oliviachang29](https://github.com/oliviachang29)
 
 ## Adding new guides
-Don't know how to code? Email me at **hello@studyguides.science** and send me your Google Doc. Make sure you have it formatted (as stated below)!
+Don't know how to code? Email me at **hello@studyguides.xyz** and send me your Google Doc. Make sure you have it formatted (as stated below)!
 
 ### Formatting guides
 
